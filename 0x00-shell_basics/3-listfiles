@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -lrt)"
+echo "$(ls -lr)"
