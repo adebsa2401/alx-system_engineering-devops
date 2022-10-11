@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -type df
+find . -empty -type d,f
